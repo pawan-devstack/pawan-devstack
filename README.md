@@ -49,11 +49,11 @@ I enjoy transforming ideas into real products through clean UI, efficient backen
 
 ### 📈 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpvirus2o&show_icons=true&theme=radical)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawan-devstack&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpvirus2o&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-devstack&layout=compact)
 
-![Profile views](https://komarev.com/ghpvc/?username=kpvirus2o)
+![Profile views](https://komarev.com/ghpvc/?username=pawan-devstack)
 
 ---
 
