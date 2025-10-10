@@ -59,9 +59,9 @@ I enjoy transforming ideas into real products through clean UI, efficient backen
 
 ### 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [LinkedIn](www.linkedin.com/in/pawan-chourasiya-2aa451259)  
 - 💼 [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: pawanchourasiya7389@gmail.com
 
 ---
 
