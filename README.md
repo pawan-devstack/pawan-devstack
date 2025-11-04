@@ -7,17 +7,17 @@ I enjoy transforming ideas into real products through clean UI, efficient backen
 
 ### 🧰 Tech Stack
 
-- 🌐 **Frontend:** HTML5 | CSS3 | JavaScript | React | Figma  
-- 🐍 **Backend:** Python | Django | REST API | DRF  
+- 🌐 **Frontend:** HTML5 | CSS3 | JavaScript (ES6) | React | Figma | Tailwind 
+- 🐍 **Backend:** Python | Django | REST API | DRF | Flask 
 - 🛢 **Database:** MySQL  
-- ⚡ **Others:** Git & GitHub | Deployment | SDLC | Agile | C++ (DSA & OOP)
+- ⚡ **Others:** Git & GitHub | Deployment ((Railway & Render)(Vercel & Netlify)) | SDLC | Agile | C++ (DSA & OOP)
 
 ---
 
 ### 🚀 What I'm Currently Working On
 
 - 🧠 Strengthening my **React + Django** full stack skills  
-- 📊 Building real-world projects (e-commerce, dashboards, booking systems)  
+- 📊 Building real-world projects (e-commerce, dashboards, booking systems, UI/UX)  
 - 📚 Practicing **Data Structures & Algorithms** for better problem-solving
 
 ---
@@ -32,8 +32,8 @@ I enjoy transforming ideas into real products through clean UI, efficient backen
 
 ### 🧠 Competitive Programming
 
-- 🧮 Practicing **C++**, **OOP**, and **DSA** for campus placements & interviews  
-- 📝 Solved 500+ practice problems & company-specific mock tests
+- 🧮 Practicing **C++**, **OOP**, and **DSA**
+- 📝 Practicing problems & company-specific mock tests
 
 ---
 
